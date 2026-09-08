@@ -6,8 +6,8 @@
     "link": "#",
     "qty": 50,
     "price": 73,
-    "change_status": "qty_changed",
-    "change_msg": "数量更改（thay đổi số lượng）: 40 ➔ 50 (+10)"
+    "change_status": "none",
+    "change_msg": ""
   },
   {
     "no": 2,
@@ -26,8 +26,8 @@
     "link": "#",
     "qty": 30,
     "price": 103.5,
-    "change_status": "qty_changed",
-    "change_msg": "数量更改（thay đổi số lượng）: 15 ➔ 30 (+15)"
+    "change_status": "none",
+    "change_msg": ""
   },
   {
     "no": 4,
@@ -56,8 +56,8 @@
     "link": "#",
     "qty": 10,
     "price": 68,
-    "change_status": "qty_changed",
-    "change_msg": "数量更改（thay đổi số lượng）: 5 ➔ 10 (+5)"
+    "change_status": "none",
+    "change_msg": ""
   },
   {
     "no": 7,
@@ -66,7 +66,7 @@
     "link": "#",
     "qty": 10,
     "price": 68,
-    "change_status": "qty_changed",
-    "change_msg": "数量更改（thay đổi số lượng）: 5 ➔ 10 (+5)"
+    "change_status": "none",
+    "change_msg": ""
   }
 ]
